@@ -1,0 +1,20 @@
+{
+  "version": 3,
+  "artifactType": {
+    "type": "APK",
+    "kind": "Directory"
+  },
+  "applicationId": "de.danoeh.antennapod.debug",
+  "variantName": "freeDebug",
+  "elements": [
+    {
+      "type": "SINGLE",
+      "filters": [],
+      "attributes": [],
+      "versionCode": 3020095,
+      "versionName": "3.2.0",
+      "outputFile": "app-free-debug.apk"
+    }
+  ],
+  "elementType": "File"
+}
